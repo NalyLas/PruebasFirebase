@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "249792900350",
+    "firebase_url": "https://pruebas-notificaciones-c65bb.firebaseio.com",
+    "project_id": "pruebas-notificaciones-c65bb",
+    "storage_bucket": "pruebas-notificaciones-c65bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249792900350:android:f74c33c0d5b58100",
+        "android_client_info": {
+          "package_name": "com.example.ptmarketing04.pruebasfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249792900350-emvk8gifa5sutj3oeffjfougj1gjg0bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1427yZHT2Z-D1Q9NA-ICLaqaUuZwvX18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
