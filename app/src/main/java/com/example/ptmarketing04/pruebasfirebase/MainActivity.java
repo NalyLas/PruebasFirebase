@@ -20,8 +20,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
-
         //Probar el archivo que has subido a drive en casa en servidor local
         //no funciona en el servidor remoto del ayala
         //puede que por el servidor prueba desde casa si te genera la notificacion.
